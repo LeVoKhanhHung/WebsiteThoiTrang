@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebb8e085-4916-4c38-bf0c-67f16b56714c" name="Changes" comment="git commit for log" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="duchieu1370 &lt;duchieu1370@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="homii" />
+        <entry key="$PROJECT_DIR$/msic" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/msic" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LoEncHMFXNIlBqK10Bbmfy1Y6j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Working/xTel/Sort&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;e8544022feef19ee4ca463f43e91ff79&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\com.devpro.shop16\src\main\webapp\WEB-INF\views\khachhang" />
+      <recent name="C:\Users\User\Desktop\com.devpro.shop16\src\main\resources\css" />
+      <recent name="C:\Users\User\Desktop\com.devpro.shop16\src\main\resources\img" />
+      <recent name="C:\Users\User\Desktop\com.devpro.shop16\src\main\webapp\WEB-INF\views\quantrivien" />
+      <recent name="D:\DevproJavaWeb16\Class\com.devpro.shop16\src\main\resources\js" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hieu.pages" />
+      <recent name="com.devpro.shop16.security" />
+      <recent name="com.devpro.shop16.repository" />
+      <recent name="com.devpro.shop16.controller" />
+      <recent name="com.devpro.shop16.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StartServer">
+    <configuration name="StartServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.devpro.shop16.StartServer" />
+      <module name="com.devpro.shop16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devpro.shop16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathUtilTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.devpro.shop16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hieu.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hieu.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.hieu.testcases.MathUtilTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="com.devpro.shop16" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devpro.shop16.StartServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MathUtilTest.test1" />
+        <item itemvalue="Application.StartServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebb8e085-4916-4c38-bf0c-67f16b56714c" name="Changes" comment="" />
+      <created>1676529214040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676529214040</updated>
+      <workItem from="1676529217861" duration="6151000" />
+      <workItem from="1676601680191" duration="4906000" />
+      <workItem from="1676625930802" duration="3325000" />
+      <workItem from="1676867894969" duration="2751000" />
+      <workItem from="1676876509728" duration="10641000" />
+      <workItem from="1677034490922" duration="1613000" />
+      <workItem from="1677037620838" duration="632000" />
+      <workItem from="1678075779817" duration="12953000" />
+      <workItem from="1678242754675" duration="3728000" />
+      <workItem from="1678250491751" duration="209000" />
+      <workItem from="1678250723269" duration="7056000" />
+      <workItem from="1678420315082" duration="1234000" />
+      <workItem from="1678675478834" duration="3190000" />
+      <workItem from="1681980973843" duration="625000" />
+      <workItem from="1684171908960" duration="1485000" />
+      <workItem from="1684592859196" duration="1690000" />
+      <workItem from="1684865606241" duration="2026000" />
+      <workItem from="1684944262484" duration="10343000" />
+      <workItem from="1685024488621" duration="14074000" />
+      <workItem from="1685117090450" duration="5594000" />
+      <workItem from="1685224896942" duration="1986000" />
+      <workItem from="1685371329909" duration="3684000" />
+      <workItem from="1685455757971" duration="13777000" />
+      <workItem from="1685633345977" duration="29619000" />
+      <workItem from="1685878471528" duration="4394000" />
+      <workItem from="1685988123164" duration="10034000" />
+      <workItem from="1686047211153" duration="4309000" />
+      <workItem from="1686064272041" duration="12656000" />
+      <workItem from="1686173579885" duration="1905000" />
+      <workItem from="1686231284366" duration="6729000" />
+      <workItem from="1686273670283" duration="4697000" />
+      <workItem from="1686410917027" duration="6946000" />
+      <workItem from="1686502614437" duration="3514000" />
+      <workItem from="1686738253787" duration="663000" />
+      <workItem from="1686856890007" duration="2829000" />
+      <workItem from="1686932299836" duration="15845000" />
+      <workItem from="1687092613088" duration="17095000" />
+      <workItem from="1687135125144" duration="4178000" />
+      <workItem from="1687175139788" duration="1713000" />
+      <workItem from="1687455047650" duration="1184000" />
+      <workItem from="1688111409611" duration="644000" />
+      <workItem from="1688180206573" duration="309000" />
+      <workItem from="1688207683785" duration="1011000" />
+      <workItem from="1688440683931" duration="12393000" />
+      <workItem from="1688955185297" duration="49000" />
+      <workItem from="1698203824638" duration="173000" />
+      <workItem from="1701243328169" duration="5061000" />
+      <workItem from="1701851910938" duration="681000" />
+      <workItem from="1701941285733" duration="966000" />
+      <workItem from="1701942691007" duration="235000" />
+      <workItem from="1701943070149" duration="1802000" />
+      <workItem from="1702018223052" duration="1739000" />
+      <workItem from="1702029015426" duration="2029000" />
+      <workItem from="1702031942451" duration="1204000" />
+      <workItem from="1702259535769" duration="364000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1677034664012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677034664012</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update contact">
+      <created>1678264679387</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678264679387</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git commit register">
+      <created>1685645587051</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685645587051</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git commit register success">
+      <created>1687102700820</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687102700820</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git commit controller success">
+      <created>1687175545543</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687175545543</updated>
+    </task>
+    <task id="LOCAL-00006" summary="git commit entity and service success">
+      <created>1687175648365</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687175648365</updated>
+    </task>
+    <task id="LOCAL-00007" summary="git commit controller home">
+      <created>1687455229387</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687455229387</updated>
+    </task>
+    <task id="LOCAL-00008" summary="git commit html css js">
+      <created>1687455422270</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687455422270</updated>
+    </task>
+    <task id="LOCAL-00009" summary="git commit file jsp">
+      <created>1687455599313</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687455599313</updated>
+    </task>
+    <task id="LOCAL-00010" summary="git commit for log">
+      <created>1688467170517</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688467170518</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="msic" />
+    <MESSAGE value="update" />
+    <MESSAGE value="update contact" />
+    <MESSAGE value="git commit" />
+    <MESSAGE value="git commit register" />
+    <MESSAGE value="git commit register success" />
+    <MESSAGE value="git commit all success" />
+    <MESSAGE value="git commit controller success" />
+    <MESSAGE value="git commit entity and service success" />
+    <MESSAGE value="git commit controller home" />
+    <MESSAGE value="git commit html css js" />
+    <MESSAGE value="git commit file jsp" />
+    <MESSAGE value="git commit for log" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit for log" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="entity" />
+        <watch expression="checkEmailRepository.findByEmail(entity.getEmail())" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
